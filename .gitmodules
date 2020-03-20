@@ -52,3 +52,8 @@
 	path = CLVsol/addons-onestein
 	url = git@github.com:CLVsol/addons-onestein.git
 	branch = 10.0
+
+[submodule "MostlyOpen/odoo_addons_jcafb"]
+	path = MostlyOpen/odoo_addons_jcafb
+	url = git@github.com:MostlyOpen/odoo_addons_jcafb.git
+	branch = master
