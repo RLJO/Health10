@@ -47,3 +47,8 @@
 	path = CLVsol/MassEditing
 	url = git@github.com:CLVsol/MassEditing.git
 	branch = 10.0
+
+[submodule "CLVsol/addons-onestein"]
+	path = CLVsol/addons-onestein
+	url = git@github.com:CLVsol/addons-onestein.git
+	branch = 10.0
