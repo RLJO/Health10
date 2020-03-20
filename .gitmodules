@@ -2,3 +2,8 @@
 	path = CLVsol/clvsol_clvhealth_pharm
 	url = git@github.com:CLVsol/clvsol_clvhealth_pharm.git
 	branch = 10.0
+
+[submodule "CLVsol/clvsol_odoo_addons_pharm"]
+	path = CLVsol/clvsol_odoo_addons_pharm
+	url = git@github.com:CLVsol/clvsol_odoo_addons_pharm.git
+	branch = 10.0
