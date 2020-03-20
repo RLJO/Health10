@@ -1,0 +1,4 @@
+[submodule "CLVsol/clvsol_clvhealth_pharm"]
+	path = CLVsol/clvsol_clvhealth_pharm
+	url = git@github.com:CLVsol/clvsol_clvhealth_pharm.git
+	branch = 10.0
