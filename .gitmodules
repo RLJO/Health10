@@ -57,3 +57,8 @@
 	path = MostlyOpen/odoo_addons_jcafb
 	url = git@github.com:MostlyOpen/odoo_addons_jcafb.git
 	branch = master
+
+[submodule "MostlyOpen/mostlyopen"]
+	path = MostlyOpen/mostlyopen
+	url = git@github.com:MostlyOpen/mostlyopen.git
+	branch = master
