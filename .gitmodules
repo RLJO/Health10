@@ -7,3 +7,8 @@
 	path = CLVsol/clvsol_odoo_addons_pharm
 	url = git@github.com:CLVsol/clvsol_odoo_addons_pharm.git
 	branch = 10.0
+
+[submodule "OCA/vertical-medical"]
+	path = OCA/vertical-medical
+	url = git@github.com:OCA/vertical-medical.git
+	branch = 10.0
