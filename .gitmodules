@@ -42,3 +42,8 @@
 	path = CLVsol/clvsol_odoo_addons_pbm
 	url = git@github.com:CLVsol/clvsol_odoo_addons_pbm.git
 	branch = 10.0
+
+[submodule "CLVsol/MassEditing"]
+	path = CLVsol/MassEditing
+	url = git@github.com:CLVsol/MassEditing.git
+	branch = 10.0
